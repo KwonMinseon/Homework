@@ -1,5 +1,6 @@
 public class C {
 	public void start() {
-		System.out.println("Start Homework");
+		System.out.println("Change C class in devC");
+		System.out.println("merge");
 	}
 }

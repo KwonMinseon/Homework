@@ -4,6 +4,7 @@ public class A {
 
 		System.out.println("2nd Commit");
 		System.out.println("Change A class in devB");
+		System.out.println("Change A class in devC");
 
 	}
 }
